@@ -1,4 +1,4 @@
-E# Bandit : Over the wire
+# Bandit : Over the wire
 ## level 0
 for level 0 we use a ssh client to login into bandit server. using the command
 >ssh bandit0@bandit.labs.overthewire.org -p 2220

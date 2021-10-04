@@ -30,5 +30,5 @@ Here when we use the nc we get a set of decimal values which when we convert int
 To solve this we use binwalk commmand 
 >binwalk -e -M dolls.jpg\
 
-This gives an extracted directories. We move into the 4th extracted directory inside which we will find a file containing the flag (flag.txt).\
+This gives an extracted directories. We move into the 4th extracted directory inside which we will find a file containing the flag (flag.txt).
 >**picoCTF{ac0072c423ee13bfc0b166af72e25b61}**

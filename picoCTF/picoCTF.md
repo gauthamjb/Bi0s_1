@@ -1,5 +1,5 @@
-# picoCTF\
-## Obedient cat\
+# picoCTF
+## Obedient cat
 we just use ***cat flag*** to get the output which is the flag in this case\
 >**picoCTF{s4nity_v3r1f13d_2aa22101}**
 ## MOD 26\

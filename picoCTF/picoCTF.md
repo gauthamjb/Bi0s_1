@@ -25,4 +25,9 @@ we get the flag as
 >**picoCTF{the_m3tadata_1s_modified}**
 ## Nice netcat
 Here when we use the nc we get a set of decimal values which when we convert into ASCII characters we get the flag.
->**picoCTF{g00d_k1tty!_n1c3_k1tty!_9b3b7392}**
+>**g00d_k1tty!_n1c3_k1tty!_9b3b7392}**
+## Matryoshka Doll
+To solve this we use binwalk commmand 
+>binwalk -e -M dolls.jpg
+This gives an extracted directories. We move into the 4th extracted directory inside which we will find a file containing the flag (flag.txt).
+>**picoCTF{ac0072c423ee13bfc0b166af72e25b61}**

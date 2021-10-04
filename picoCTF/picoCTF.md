@@ -1,8 +1,8 @@
-#picocTF
-##Obedient cat
+#picoCTF\
+##Obedient cat\
 we just use ***cat flag*** to get the output which is the flag in this case\
 >**picoCTF{s4nity_v3r1f13d_2aa22101}**
-##MOD 26
+##MOD 26\
 Here every character is rotated by 13 places.\
 So we use ***echo cvpbPGS{arkg_gvzr_V'yy_gel_2_ebhaqf_bs_ebg13_Ncualgvd} | tr a-zA-Z n-za-mN-ZA-M*** to get the flag\
 >**picoCTF{next_time_I'l1_try_2_rounds_of_rot13_Aphnytiq}**

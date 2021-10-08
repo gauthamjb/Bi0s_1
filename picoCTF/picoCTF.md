@@ -32,3 +32,10 @@ To solve this we use binwalk commmand
 
 This gives an extracted directories. We move into the 4th extracted directory inside which we will find a file containing the flag (flag.txt).
 >**picoCTF{ac0072c423ee13bfc0b166af72e25b61}**
+## Static aint always noise
+Here in this we use string static to view the strings in the file. Through this way we can find the flag.
+>>**picoCTF{d15a5m_t34s3r_f6c48608}**
+## Tab,Tab,Attack
+In this we extract the file given and we use cd to enter the file and then when we click tab we can move through the folders easily and when we run the last file we get the flag.
+>> **picoCTF{l3v3l_up!_t4k3_4_r35t!_76266e38}**
+ 

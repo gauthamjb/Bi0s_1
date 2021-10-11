@@ -41,3 +41,6 @@ In this we extract the file given and we use cd to enter the file and then when 
 ## Insp3ct0r
 For this in the website that we are guided to, we inspect the website and look at the sources the HTML JS and CSS codes we can find the 1st 2nd and the 3rd part of the password.
 >> **picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?f10be399}**
+## Lets Warm Up
+Here we are given a hex number and we have to convert it to ascii. 0x70 is given which is p in ascii. So we submit the flag as
+>> **picoCTF{p}**

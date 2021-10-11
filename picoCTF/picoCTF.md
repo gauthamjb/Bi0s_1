@@ -32,6 +32,7 @@ To solve this we use binwalk commmand
 
 This gives an extracted directories. We move into the 4th extracted directory inside which we will find a file containing the flag (flag.txt).
 >**picoCTF{ac0072c423ee13bfc0b166af72e25b61}**
+
 ## Static aint always noise
 Here in this we use string static to view the strings in the file. Through this way we can find the flag.
 >>**picoCTF{d15a5m_t34s3r_f6c48608}**
@@ -44,3 +45,6 @@ For this in the website that we are guided to, we inspect the website and look a
 ## Lets Warm Up
 Here we are given a hex number and we have to convert it to ascii. 0x70 is given which is p in ascii. So we submit the flag as
 >> **picoCTF{p}**
+## vault-door-training
+Here we are given a code in java which when we so through the flag is given to us in plain sight In *return password equals*.
+>> **picoCTF{w4rm1ng_Up_w1tH_jAv4_be8d9806f18}**

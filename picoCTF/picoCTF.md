@@ -51,3 +51,6 @@ Here we are given a code in java which when we so through the flag is given to u
 ## Warmed up
 Here we need to convert the hex to decimal 0x3D=decimal 61
 >> **picoCTF{61}**
+## The Numbers
+Here from the image given we have to convert the number to their corresponding alphabet and the flag is in capitals
+>> **PICOCTF{THENUMBERSMASON}**

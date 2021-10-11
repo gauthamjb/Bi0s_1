@@ -54,3 +54,6 @@ Here we need to convert the hex to decimal 0x3D=decimal 61
 ## The Numbers
 Here from the image given we have to convert the number to their corresponding alphabet and the flag is in capitals
 >> **PICOCTF{THENUMBERSMASON}**
+## 2 Warm
+Here we just need to convert the given decimal to binary. We get the flag
+>> **picoCTF{101010}**

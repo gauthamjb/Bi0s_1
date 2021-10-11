@@ -48,3 +48,6 @@ Here we are given a hex number and we have to convert it to ascii. 0x70 is given
 ## vault-door-training
 Here we are given a code in java which when we so through the flag is given to us in plain sight In *return password equals*.
 >> **picoCTF{w4rm1ng_Up_w1tH_jAv4_be8d9806f18}**
+## Warmed up
+Here we need to convert the hex to decimal 0x3D=decimal 61
+>> **picoCTF{61}**

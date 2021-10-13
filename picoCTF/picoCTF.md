@@ -60,3 +60,6 @@ Here we just need to convert the given decimal to binary. We get the flag
 ## Some assembly required
 When we inspect the site and go through sources ,wasm and the file inside. When we go through the code we can find the flag.
 >> picoCTF{a2843c6ba4157dc1bc052818a6242c3f}
+## Speeds and Feeds
+Here using the data we retrieve from the nc .We put it in a G code interpreter and the output gives us the flag.
+>> **picoCTF{num3r1cal_c0ntr0l_84d2d117}**

@@ -64,5 +64,5 @@ When we inspect the site and go through sources ,wasm and the file inside. When 
 Here using the data we retrieve from the nc .We put it in a G code interpreter and the output gives us the flag.
 >> **picoCTF{num3r1cal_c0ntr0l_84d2d117}**
 ## Scavenger Hunt
-Here just by inspecting the website we can find the 1st and the 2nd part of the flag, for the 3rd part we heed to stop indexing the website. So for that we replace the /myjs.js with robots.txt We get the 3rd part and for the 4th part It is said that we are in apache server. So we look through .htaccess we get the 4th part. So for the 5th part in the mac's there is a .DS_Store created the 5th  and the last part was stored in there.
+Here just by inspecting the website we can find the 1st and the 2nd part of the flag, for the 3rd part we heed to stop indexing the website. So for that we replace the /myjs.js with robots.txt We get the 3rd part and for the 4th part It is said that we are in apache server. So we look through .htaccess we get the 4th part. So for the 5th part in the mac's there is a file .DS_Store created the 5th  and the last part was stored in there.
 >> **picoCTF{th4ts_4_l0t_0f_pl4c3s_2_lO0k_a69684fd}**

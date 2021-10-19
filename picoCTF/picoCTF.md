@@ -73,3 +73,6 @@ For this we look through the robots.txt where we find Disallow: /1bb4c.html so w
 ## Crackme.py 
 For this in the code a ROT-47 Encryption is applied to the plag which is given within the file. We Decode this to get the flag
 >> **picoCTF{1|\/|_4_p34|\|ut_8c551048}**
+## Glory of the Garden
+Here we use cat to read the file and we can find the required flag there.
+>> **picoCTF{more_than_m33ts_the_3y3eBdBd2cc}**

@@ -80,5 +80,5 @@ Here we use cat to read the file and we can find the required flag there.
 In this when we inspect page and analyse the storage in inspect we can find that. The value change for different inputs. For wrong -1 and for the others each number gave a different cookie except for the number 18, which gives us the flag
 >> **picoCTF{3v3ry1_l0v3s_c00k135_88acab36}**
 ## Strings it
-To get the flag we use * strings strings | grep picoCTF * To search for the line starting with the known format.
+To get the flag we use *strings strings | grep picoCTF* To search for the line starting with the known format.
 >> **picoCTF{5tRIng5_1T_d66c7bb7}**

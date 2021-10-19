@@ -76,3 +76,6 @@ For this in the code a ROT-47 Encryption is applied to the plag which is given w
 ## Glory of the Garden
 Here we use cat to read the file and we can find the required flag there.
 >> **picoCTF{more_than_m33ts_the_3y3eBdBd2cc}**
+## Cookies
+In this when we inspect page and analyse the storage in inspect we can find that. The value change for different inputs. For wrong -1 and for the others each number gave a different cookie except for the number 18, which gives us the flag
+>> **picoCTF{3v3ry1_l0v3s_c00k135_88acab36}**

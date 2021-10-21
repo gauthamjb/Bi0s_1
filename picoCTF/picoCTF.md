@@ -88,3 +88,6 @@ For this we open the file using wireshark. and we search for http response code 
 ## what's a net cat?
 Here we just use **nc pico.....org portnumber** to obtain the flag
 >> **picoCTF{nEtCat_Mast3ry_d0c64587}**
+## vault-door-1
+To Solve this we have to look into the java code, in which we can find line by linn checking of each of the characters in the flag. We figure out the flag from these lines.
+>> **picoCTF{d35cr4mbl3_tH3_cH4r4cT3r5_75092e}**

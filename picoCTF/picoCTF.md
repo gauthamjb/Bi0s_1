@@ -69,7 +69,7 @@ Here just by inspecting the website we can find the 1st and the 2nd part of the 
 
 ## where are the robots
 For this we look through the robots.txt where we find Disallow: /1bb4c.html so we look through the same and we get the flag.
->> **picoCTF{ca1cu1at1ng_Mach1n3s_1bb4c}**
+>> **picoCTF{ca1cu1at1ng_Mach1n3s_8028f}**
 ## Crackme.py 
 For this in the code a ROT-47 Encryption is applied to the plag which is given within the file. We Decode this to get the flag
 >> **picoCTF{1|\/|_4_p34|\|ut_8c551048}**

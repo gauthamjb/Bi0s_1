@@ -82,3 +82,6 @@ In this when we inspect page and analyse the storage in inspect we can find that
 ## Strings it
 To get the flag we use **strings strings | grep picoCTF** To search for the line starting with the known format.
 >> **picoCTF{5tRIng5_1T_d66c7bb7}**
+## Wireshark doo dooo do doo...
+For this we open the file using wireshark. and we search for http response code 200 to get the suceeded requests and among that we find an encoded txt file where we get a text similar to a flag. we do rot 13 and get the flag
+>> **picoCTF{p33kab00_1_s33_u_deadbeef}**

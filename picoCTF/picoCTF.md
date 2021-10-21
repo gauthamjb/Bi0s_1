@@ -91,3 +91,6 @@ Here we just use **nc pico.....org portnumber** to obtain the flag
 ## vault-door-1
 To Solve this we have to look into the java code, in which we can find line by linn checking of each of the characters in the flag. We figure out the flag from these lines.
 >> **picoCTF{d35cr4mbl3_tH3_cH4r4cT3r5_75092e}**
+## logon
+To solve this we visit the website and enter a id and password, when we inspect element and check the storage we can find the admin response as false, we change this to True and refresh the page and we get the flag
+>> **picoCTF{th3_c0nsp1r4cy_l1v3s_6edb3f5f}**

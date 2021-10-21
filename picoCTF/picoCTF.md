@@ -85,3 +85,6 @@ To get the flag we use **strings strings | grep picoCTF** To search for the line
 ## Wireshark doo dooo do doo...
 For this we open the file using wireshark. and we search for http response code 200 to get the suceeded requests and among that we find an encoded txt file where we get a text similar to a flag. we do rot 13 and get the flag
 >> **picoCTF{p33kab00_1_s33_u_deadbeef}**
+## what's a net cat?
+Here we just use **nc pico.....org portnumber** to obtain the flag
+>> **picoCTF{nEtCat_Mast3ry_d0c64587}**

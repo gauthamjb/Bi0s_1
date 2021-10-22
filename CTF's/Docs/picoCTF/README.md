@@ -103,3 +103,12 @@ Here we just use a rot 13 to get the flag
 ## caesar
 Here also we just use a caesar cipher decoder inorder to obtain the flag.
 >> **picoCTF{crossingtherubiconvfhsjkou}**
+## dont-use-client-side
+For this when we look at the website source we can find several conditions checking for various parts of the password we just combine the ones to get the flag
+>> **picoCTF{no_clients_plz_7723ce}**
+## Base64
+Here also we just do a base64 decode. In ubuntu using **echo bDNhcm5fdGgzX3IwcDM1 | base64 --decode** we can get the flag.
+>> **picoCTF{l3arn_th3_r0p35}**
+## First Grep
+Here we just use grep to search for the flag in the file. **cat file |grep picoCTF** gives us the flag.
+>> **picoCTF{grep_is_good_to_find_things_f77e0797}**

@@ -112,3 +112,6 @@ Here also we just do a base64 decode. In ubuntu using **echo bDNhcm5fdGgzX3IwcDM
 ## First Grep
 Here we just use grep to search for the flag in the file. **cat file |grep picoCTF** gives us the flag.
 >> **picoCTF{grep_is_good_to_find_things_f77e0797}**
+## So Meta
+Here we just read the file using **cat file** and going through which we can find the flag
+>> **picoCTF{s0_m3ta_eb36bf44}**

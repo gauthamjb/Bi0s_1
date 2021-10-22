@@ -96,4 +96,10 @@ To solve this we visit the website and enter a id and password, when we inspect 
 >> **picoCTF{th3_c0nsp1r4cy_l1v3s_6edb3f5f}**
 ## Easy1
 Here we have a Vigenere Cipher so i just put it in the decoder and received the flag.
->> picoCTF{CRYPTOISFUN}
+>> **picoCTF{CRYPTOISFUN}**
+## 13
+Here we just use a rot 13 to get the flag
+>> **picoCTF{not_too_bad_of_a_problem}**
+## caesar
+Here also we just use a caesar cipher decoder inorder to obtain the flag.
+>> **picoCTF{crossingtherubiconvfhsjkou}**

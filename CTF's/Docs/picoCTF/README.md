@@ -94,4 +94,6 @@ To Solve this we have to look into the java code, in which we can find line by l
 ## logon
 To solve this we visit the website and enter a id and password, when we inspect element and check the storage we can find the admin response as false, we change this to True and refresh the page and we get the flag
 >> **picoCTF{th3_c0nsp1r4cy_l1v3s_6edb3f5f}**
-
+## Easy1
+Here we have a Vigenere Cipher so i just put it in the decoder and received the flag.
+>> picoCTF{CRYPTOISFUN}

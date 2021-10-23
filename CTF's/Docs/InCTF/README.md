@@ -10,3 +10,6 @@ ls,cat commands
 ## Client Auth
 Here if we incspect the page and look at the js we can get the id(admin321) and the password(i_am_c00L__). Then if we look at the console we can find the flag.
 >>flag{C1ien7_s1d3_15_aLw4yS_b4D!!}
+## No-Rclick
+ctrl A- View page source  |ctrl shift i - inspect|
+>>flag{D1s4bl1ng_r1ght_cl1ck_i5_us3l3s5}

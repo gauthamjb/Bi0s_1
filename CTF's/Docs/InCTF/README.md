@@ -19,3 +19,5 @@ strings pic gives us the flag
 ## Back to san andreas
 jsteg reveal done, got a link which had the flag.
 >> inctfj{gr0ve_5treet_f0r_l1fe}
+##Con-The-Cat
+binwalk gives us a zlib file

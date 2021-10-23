@@ -21,3 +21,5 @@ jsteg reveal done, got a link which had the flag.
 >> inctfj{gr0ve_5treet_f0r_l1fe}
 ##Con-The-Cat
 binwalk gives us a zlib file
+## Deeper
+binwalk gives us an audio file which when we decode using audio converter

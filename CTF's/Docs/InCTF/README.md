@@ -13,3 +13,6 @@ Here if we incspect the page and look at the js we can get the id(admin321) and 
 ## No-Rclick
 ctrl A- View page source  |ctrl shift i - inspect|
 >>flag{D1s4bl1ng_r1ght_cl1ck_i5_us3l3s5}
+## Angry Steve
+strings pic gives us the flag
+>> inctfj{string5_m4keth_fl4gs}

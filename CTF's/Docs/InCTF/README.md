@@ -16,3 +16,6 @@ ctrl A- View page source  |ctrl shift i - inspect|
 ## Angry Steve
 strings pic gives us the flag
 >> inctfj{string5_m4keth_fl4gs}
+## Back to san andreas
+jsteg reveal done, got a link which had the flag.
+>> inctfj{gr0ve_5treet_f0r_l1fe}

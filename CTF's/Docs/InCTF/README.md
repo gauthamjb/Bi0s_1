@@ -19,7 +19,11 @@ strings pic gives us the flag
 ## Back to san andreas
 jsteg reveal done, got a link which had the flag.
 >> inctfj{gr0ve_5treet_f0r_l1fe}
-##Con-The-Cat
+## Con-The-Cat
 binwalk gives us a zlib file
 ## Deeper
 binwalk gives us an audio file which when we decode using audio converter
+>> inctf{H34R_W1TH_Y0UR_3Y35}
+## S3cre3t
+Here we are directly given an audio file which when we decode using audio converter,obtain the flag. 
+>> inctf{M0RS3C0D3I5C001}

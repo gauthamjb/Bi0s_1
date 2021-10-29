@@ -27,3 +27,6 @@ binwalk gives us an audio file which when we decode using audio converter
 ## S3cre3t
 Here we are directly given an audio file which when we decode using audio converter,obtain the flag. 
 >> inctf{M0RS3C0D3I5C001}
+## Single byte XOR
+Simple single byte XOR converter with key z
+>> inctfj{x0r_c4n't_b3_e4sily_br0k3n}

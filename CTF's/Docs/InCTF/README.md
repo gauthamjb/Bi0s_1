@@ -32,3 +32,9 @@ Simple single byte XOR converter with key z
 >> inctfj{x0r_c4n't_b3_e4sily_br0k3n}
 ## simpleRSA 
 >> shaktictf{Gr3a7-g01ng-g1rl-Y4yyy!!}
+## Vinegar1
+Vigenere Cipher
+>> inctfj{shuffle_shuffle_shuffle}
+## Vineagar2
+Vigenere Cipher
+>> inctfj{you_can_decode_this_keyless}

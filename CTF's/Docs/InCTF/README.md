@@ -30,3 +30,5 @@ Here we are directly given an audio file which when we decode using audio conver
 ## Single byte XOR
 Simple single byte XOR converter with key z
 >> inctfj{x0r_c4n't_b3_e4sily_br0k3n}
+## simpleRSA 
+>> shaktictf{Gr3a7-g01ng-g1rl-Y4yyy!!}

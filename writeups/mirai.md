@@ -1,12 +1,12 @@
 
-#Mirai botnet
+# Mirai botnet
 - - -
-##What is Mirai?
+## What is Mirai?
 Mirai is malware that infects networked devices and
 turns them into a network of remotely controlled bots.
 This network of bots, called a botnet, is often used to launch DDoS attacks.
 
-##How botnets work
+## How botnets work
 in a nutshell, a botnet is a collection of internet-connected computers.
 
 >There are two classes of activities that Mirai performs:
@@ -25,7 +25,7 @@ A distributed denial-of-service (DDoS) attack is a malicious attempt to disrupt 
 
 DDoS attacks achieve effectiveness by utilizing multiple compromised computer systems(bots) as sources of attack traffic. Exploited machines can include computers and other networked devices such as IoT devices.
 
-##Is Mirai still a threat?
+## Is Mirai still a threat?
 The mirai source code Having been shared on the internet, the Mirai botnet source code continues to evolve as malware , as creators adapt it to create more advanced variants of Mirai. Recent IoT botnet threats such as Okiru, Satori, and Reaper are all based on the Mirai malware source code.
 
 ![](http://www.drizgroup.com/uploads/6/4/4/7/6447121/mirai-botnet-ddos_orig.jpg)
@@ -48,7 +48,7 @@ a cloud-based internet performance management company that overwhelmed its sites
 Amazon, Netflix, PayPal, The New York Times, and Verizon. 
 The Mirai botnet at present continues to cause damages.
 
-##Mirai botnet detection and analysis
+## Mirai botnet detection and analysis
 Mirai exploits default usernames and passwords, trying to find the right combination to break in. Rather brute-force attacking a single device, Mirai will simply move on to an easier target. So, your top priority should be **changing the factory setting log-in keys and creating a strong password for your IoT devices.**
 Even though cyber threats targeting smart devices are growing in scale and sophistication, built-in IoT security protocols are often relatively weak. All it takes is one compromised device to expose an entire system, so it's important to take additional steps to secure your smart home.
 

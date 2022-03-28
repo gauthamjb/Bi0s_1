@@ -1,4 +1,4 @@
-
+- - -
 # Mirai botnet
 - - -
 ## What is Mirai?
@@ -18,7 +18,7 @@ Another common use and the one the Mirai botnet served is as foot soldiers in a 
 
 ![](https://www.imperva.com/blog/wp-content/uploads/sites/9/2017/04/Mirai-botnet-diagram-1.png)
 
-##DDoS attack
+## DDoS attack
 A distributed denial-of-service (DDoS) attack is a malicious attempt to disrupt the normal traffic of a targeted server, service or network by overwhelming the target or its surrounding infrastructure with a flood of Internet traffic.
 
 ![DDoS](https://www.cloudflare.com/img/learning/ddos/what-is-a-ddos-attack/ddos-attack-traffic-metaphor.png)
